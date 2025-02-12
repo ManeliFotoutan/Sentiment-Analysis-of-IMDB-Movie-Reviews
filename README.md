@@ -1,10 +1,10 @@
-# Sentiment Analysis of IMDB Movie Reviews
-
 ## Project Overview
 This project implements a sentiment analysis system to classify IMDB movie reviews as either **positive** or **negative**. The model is trained using machine learning algorithms and evaluates its performance based on **F1-Score** and confusion matrix analysis.
 
 ## Dataset
-The dataset used is **IMDB Movie Reviews Dataset**, which consists of **50,000** reviews categorized into positive and negative classes.
+The dataset used is **IMDB Movie Reviews Dataset**, which consists of **50,000** reviews categorized into positive and negative classes. You can access and download the dataset from the following link:
+
+[IMDB Movie Reviews Dataset](https://drive.google.com/file/d/13u7afZIUzeTo2RaL6SkVApdR09zRGws-/view?usp=sharing)
 
 ## Preprocessing Steps
 1. **Text Cleaning**: Removal of HTML tags, URLs, and non-alphabetic characters.
